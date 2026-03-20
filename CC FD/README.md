@@ -97,7 +97,10 @@ weighted avg       0.99      0.99      0.99     56962
 - `0` → Legit Transaction  
 - `1` → Fraud Transaction  
 
-Note: Most features (V1–V28) are PCA-transformed and not directly interpretable.
+---
+
+## Project Resources
+### Dataset (data/creditcard.csv) :- [Click to Download](https://drive.google.com/file/d/1FbuRcF9QKskzhcDr0bJnTjmdcUSt6lHX/view?usp=drive_link)
 
 ---
 
